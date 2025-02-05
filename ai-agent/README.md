@@ -1,18 +1,44 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## build an AI CHAT that can use Tools in NEXT.JS 15 (LangChain, Clerk, Convex, IBM)
+ AI chat application built with Next.js, featuring real-time conversations, advanced prompt caching, and intelligent tool orchestration powered by LangChain and Claude 3.5 Sonnet.
+## Get Started
+1.Sign up for a Free Clerk account
+2.Sign up for IBM's FREE WxFlows tool
 
-## Getting Started
+## Features
+🤖 Advanced AI chat interface with azure ai
+🎨 Modern and responsive UI with Tailwind CSS
+🔐 Authentication with Clerk
+💾 Real-time data storage with Convex
+⚡ Built with Next.js 15 and React 19
+🌊 Advanced streaming responses with custom implementation
+📱 Mobile-friendly design
+🧠 Prompt caching for optimized token usage
+🔧 Intelligent tool orchestration with LangGraph
+📚 Integration with various data sources via wxflows
 
-First, run the development server:
+##  Stack:
+Frontend Framework: Next.js 15
+UI Library: React 19
+Styling: Tailwind CSS
+Authentication: Clerk
+Database: Convex
+AI Integration: LangChain
+Icons: Lucide React & Radix UI Icons
+## Requirements
+Node.js (Latest LTS version recommended)
+PNPM package manager or NPM/Yarn
+Clerk account for authentication
+Convex account for database
+OpenAI/Anthropic API key for AI capabilities
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
+## Installation
+1.Clone the repository
+2.Install dependencies:
+pnpm install or use npm 
+3.Start the development server:
 pnpm dev
-# or
-bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
