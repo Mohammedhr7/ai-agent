@@ -2,42 +2,42 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## build an AI CHAT that can use Tools in NEXT.JS 15 (LangChain, Clerk, Convex, IBM)
  AI chat application built with Next.js, featuring real-time conversations, advanced prompt caching, and intelligent tool orchestration powered by LangChain and Claude 3.5 Sonnet.
 ## Get Started
-1.Sign up for a Free Clerk account
-2.Sign up for IBM's FREE WxFlows tool
+-1.Sign up for a Free Clerk account
+-2.Sign up for IBM's FREE WxFlows tool
 
 ## Features
-🤖 Advanced AI chat interface with azure ai
-🎨 Modern and responsive UI with Tailwind CSS
-🔐 Authentication with Clerk
-💾 Real-time data storage with Convex
-⚡ Built with Next.js 15 and React 19
-🌊 Advanced streaming responses with custom implementation
-📱 Mobile-friendly design
-🧠 Prompt caching for optimized token usage
-🔧 Intelligent tool orchestration with LangGraph
-📚 Integration with various data sources via wxflows
+-🤖 Advanced AI chat interface with azure ai
+-🎨 Modern and responsive UI with Tailwind CSS
+-🔐 Authentication with Clerk
+-💾 Real-time data storage with Convex
+-⚡ Built with Next.js 15 and React 19
+-🌊 Advanced streaming responses with custom implementation
+-📱 Mobile-friendly design
+-🧠 Prompt caching for optimized token usage
+-🔧 Intelligent tool orchestration with LangGraph
+-📚 Integration with various data sources via wxflows
 
 ##  Stack:
-Frontend Framework: Next.js 15
-UI Library: React 19
-Styling: Tailwind CSS
-Authentication: Clerk
-Database: Convex
-AI Integration: LangChain
-Icons: Lucide React & Radix UI Icons
+-Frontend Framework: Next.js 15
+-UI Library: React 19
+-Styling: Tailwind CSS
+-Authentication: Clerk
+-Database: Convex
+-AI Integration: LangChain
+-Icons: Lucide React & Radix UI Icons
 ## Requirements
-Node.js (Latest LTS version recommended)
-PNPM package manager or NPM/Yarn
-Clerk account for authentication
-Convex account for database
-OpenAI/Anthropic API key for AI capabilities
+-Node.js (Latest LTS version recommended)
+-PNPM package manager or NPM/Yarn
+-Clerk account for authentication
+-Convex account for database
+-OpenAI/Anthropic API key for AI capabilities
 
 ## Installation
-1.Clone the repository
-2.Install dependencies:
-pnpm install or use npm 
-3.Start the development server:
-pnpm dev
+-1.Clone the repository
+-2.Install dependencies:
+-pnpm install or use npm 
+-3.Start the development server:
+-pnpm dev
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
