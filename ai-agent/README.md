@@ -30,14 +30,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 -PNPM package manager or NPM/Yarn
 -Clerk account for authentication
 -Convex account for database
--OpenAI/Anthropic API key for AI capabilities
+- OpenAI/Anthropic API key for AI capabilities -
 
 ## Installation
--1.Clone the repository
--2.Install dependencies:
--pnpm install or use npm 
--3.Start the development server:
--pnpm dev
+- 1.Clone the repository -
+- 2.Install dependencies: -
+- pnpm install or use npm -
+- 3.Start the development server: -
+- pnpm dev -
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
